@@ -123,6 +123,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Age Calculator](https://dailytoolkit.app/tools/age-calculator) - Calculate exact age in years, months and days.
 - [CGPA Calculator](https://dailytoolkit.app/tools/cgpa-calculator) - Calculate cumulative GPA across multiple semesters.
 - [DailyToolkit GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA with weighted credit hours and letter or point grades.
+- [Final Exam Grade Calculator](https://dailytoolkit.app/tools/final-exam-grade-calculator) - Calculate the grade you need on your final exam to reach your target course grade.
+- [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades and different credit or weighting values.
 - [Nutilz Age Calculator](https://nutilz.com/age-calculator) - Find your exact age in years, months and days, plus a countdown to your next birthday, free with no signup.
 - [Nutilz GPA Calculator](https://nutilz.com/gpa-calculator) - Enter course grades and credit hours for an instant GPA, no signup.
 - [RapidTables](https://www.rapidtables.com) - Reference tables, converters and calculators.
