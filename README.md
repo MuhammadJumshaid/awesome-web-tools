@@ -125,6 +125,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [DailyToolkit Final Grade Calculator](https://dailytoolkit.app/tools/final-grade-calculator) - Calculate the grade needed on a final exam to achieve a desired course grade.
 - [DailyToolkit GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA with weighted credit hours and letter or point grades.
 - [DailyToolkit Grade Calculator](https://dailytoolkit.app/tools/grade-calculator) - Calculate grades and overall course scores from assignments, tests and other grades.
+- [DailyToolkit Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate your test grade and determine the percentage and letter grade from your score.
+- [DailyToolkit High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator) - Calculate your high school GPA based on your course grades and credit hours.
 - [Nutilz Age Calculator](https://nutilz.com/age-calculator) - Find your exact age in years, months and days, plus a countdown to your next birthday, free with no signup.
 - [Nutilz GPA Calculator](https://nutilz.com/gpa-calculator) - Enter course grades and credit hours for an instant GPA, no signup.
 - [RapidTables](https://www.rapidtables.com) - Reference tables, converters and calculators.
